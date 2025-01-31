@@ -1,2 +1,2 @@
-# automation
-this is my public repo
+# automation_playwright
+This is my public repo
